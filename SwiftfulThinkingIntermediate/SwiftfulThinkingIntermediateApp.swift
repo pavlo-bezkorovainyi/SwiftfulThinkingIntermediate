@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct SwiftfulThinkingIntermediateApp: App {
-    var body: some Scene {
-        WindowGroup {
-          RotationGestureBootcamp()
-        }
+  var body: some Scene {
+    WindowGroup {
+      DragGestureBootcamp()
     }
+  }
 }
