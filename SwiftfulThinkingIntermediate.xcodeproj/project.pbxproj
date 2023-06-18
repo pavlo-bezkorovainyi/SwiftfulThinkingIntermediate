@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D0181D742A3F582C0039132F /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0181D732A3F582C0039132F /* LongPressGestureBootcamp.swift */; };
 		D0181D762A3F68120039132F /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0181D752A3F68120039132F /* MagnificationGestureBootcamp.swift */; };
+		D0181D782A3F6E7C0039132F /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0181D772A3F6E7C0039132F /* RotationGestureBootcamp.swift */; };
 		D01C9EF22A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01C9EF12A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift */; };
 		D01C9EF42A3F4B520061326C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01C9EF32A3F4B520061326C /* ContentView.swift */; };
 		D01C9EF62A3F4B530061326C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D01C9EF52A3F4B530061326C /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* Begin PBXFileReference section */
 		D0181D732A3F582C0039132F /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		D0181D752A3F68120039132F /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
+		D0181D772A3F6E7C0039132F /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		D01C9EEE2A3F4B520061326C /* SwiftfulThinkingIntermediate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingIntermediate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D01C9EF12A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingIntermediateApp.swift; sourceTree = "<group>"; };
 		D01C9EF32A3F4B520061326C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				D0181D752A3F68120039132F /* MagnificationGestureBootcamp.swift */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
+				D0181D772A3F6E7C0039132F /* RotationGestureBootcamp.swift */,
 			);
 			path = SwiftfulThinkingIntermediate;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				D01C9EF22A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift in Sources */,
 				D0181D762A3F68120039132F /* MagnificationGestureBootcamp.swift in Sources */,
 				D0181D742A3F582C0039132F /* LongPressGestureBootcamp.swift in Sources */,
+				D0181D782A3F6E7C0039132F /* RotationGestureBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
