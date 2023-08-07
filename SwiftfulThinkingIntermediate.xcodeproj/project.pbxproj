@@ -23,6 +23,7 @@
 		D0AE97072A818FCD007373EB /* SoundsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97062A818FCD007373EB /* SoundsBootcamp.swift */; };
 		D0AE970B2A819267007373EB /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0AE97092A819267007373EB /* badum.mp3 */; };
 		D0AE970C2A819267007373EB /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D0AE970A2A819267007373EB /* tada.mp3 */; };
+		D0AE970E2A819499007373EB /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE970D2A819499007373EB /* HapticsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		D0AE97062A818FCD007373EB /* SoundsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundsBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97092A819267007373EB /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		D0AE970A2A819267007373EB /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
+		D0AE970D2A819499007373EB /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				D05E1EB42A56EE2700A62871 /* MultipleSheetsBootcamp .swift */,
 				D05E1EB22A56DD3200A62871 /* MaskBootcamp.swift */,
 				D0AE97062A818FCD007373EB /* SoundsBootcamp.swift */,
+				D0AE970D2A819499007373EB /* HapticsBootcamp.swift */,
 				D0AE97082A819252007373EB /* Sounds */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
@@ -193,6 +196,7 @@
 				D01C9EF22A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift in Sources */,
 				D0181D762A3F68120039132F /* MagnificationGestureBootcamp.swift in Sources */,
 				D0181D802A4017E50039132F /* GeometryReaderBootcamp.swift in Sources */,
+				D0AE970E2A819499007373EB /* HapticsBootcamp.swift in Sources */,
 				D0181D742A3F582C0039132F /* LongPressGestureBootcamp.swift in Sources */,
 				D0181D782A3F6E7C0039132F /* RotationGestureBootcamp.swift in Sources */,
 			);
