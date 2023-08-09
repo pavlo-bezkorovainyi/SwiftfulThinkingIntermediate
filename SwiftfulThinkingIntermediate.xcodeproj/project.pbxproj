@@ -29,6 +29,8 @@
 		D0AE97522A82BF22007373EB /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97512A82BF22007373EB /* ArraysBootcamp.swift */; };
 		D0AE97732A839117007373EB /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97722A839117007373EB /* CoreDataBootcamp.swift */; };
 		D0AE97762A83921A007373EB /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97742A83921A007373EB /* FruitsContainer.xcdatamodeld */; };
+		D0AE97782A839938007373EB /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97772A839938007373EB /* CoreDataRelationshipsBootcamp.swift */; };
+		D0AE977B2A839B22007373EB /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97792A839B22007373EB /* CoreDataContainer.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +57,8 @@
 		D0AE97512A82BF22007373EB /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97722A839117007373EB /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97752A83921A007373EB /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		D0AE97772A839938007373EB /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
+		D0AE977A2A839B22007373EB /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				D0AE97512A82BF22007373EB /* ArraysBootcamp.swift */,
 				D0AE97722A839117007373EB /* CoreDataBootcamp.swift */,
 				D0AE97742A83921A007373EB /* FruitsContainer.xcdatamodeld */,
+				D0AE97772A839938007373EB /* CoreDataRelationshipsBootcamp.swift */,
+				D0AE97792A839B22007373EB /* CoreDataContainer.xcdatamodeld */,
 				D0AE97082A819252007373EB /* Sounds */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
@@ -209,6 +215,7 @@
 				D0181D7C2A3F79AB0039132F /* DragGestureBootcamp2.swift in Sources */,
 				D0181D7A2A3F75C90039132F /* DragGestureBootcamp.swift in Sources */,
 				D01C9EF42A3F4B520061326C /* ContentView.swift in Sources */,
+				D0AE977B2A839B22007373EB /* CoreDataContainer.xcdatamodeld in Sources */,
 				D0AE97522A82BF22007373EB /* ArraysBootcamp.swift in Sources */,
 				D0AE974E2A82A464007373EB /* LocalNotificationBootcamp.swift in Sources */,
 				D0181D7E2A4009510039132F /* ScrollViewReaderBootcamp.swift in Sources */,
@@ -217,6 +224,7 @@
 				D0181D762A3F68120039132F /* MagnificationGestureBootcamp.swift in Sources */,
 				D0181D802A4017E50039132F /* GeometryReaderBootcamp.swift in Sources */,
 				D0AE970E2A819499007373EB /* HapticsBootcamp.swift in Sources */,
+				D0AE97782A839938007373EB /* CoreDataRelationshipsBootcamp.swift in Sources */,
 				D0181D742A3F582C0039132F /* LongPressGestureBootcamp.swift in Sources */,
 				D0181D782A3F6E7C0039132F /* RotationGestureBootcamp.swift in Sources */,
 			);
@@ -428,6 +436,16 @@
 			);
 			currentVersion = D0AE97752A83921A007373EB /* FruitsContainer.xcdatamodel */;
 			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		D0AE97792A839B22007373EB /* CoreDataContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				D0AE977A2A839B22007373EB /* CoreDataContainer.xcdatamodel */,
+			);
+			currentVersion = D0AE977A2A839B22007373EB /* CoreDataContainer.xcdatamodel */;
+			path = CoreDataContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
