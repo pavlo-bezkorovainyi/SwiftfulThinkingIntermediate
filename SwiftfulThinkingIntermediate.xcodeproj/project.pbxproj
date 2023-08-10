@@ -33,6 +33,7 @@
 		D0AE977B2A839B22007373EB /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97792A839B22007373EB /* CoreDataContainer.xcdatamodeld */; };
 		D0AE977D2A842AB2007373EB /* BackgroundThreadBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE977C2A842AB2007373EB /* BackgroundThreadBootcamp.swift */; };
 		D0AE977F2A84E6A5007373EB /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE977E2A84E6A5007373EB /* WeakSelfBootcamp.swift */; };
+		D0AE97812A84EDBA007373EB /* TypeAliasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		D0AE977A2A839B22007373EB /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		D0AE977C2A842AB2007373EB /* BackgroundThreadBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadBootcamp.swift; sourceTree = "<group>"; };
 		D0AE977E2A84E6A5007373EB /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
+		D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeAliasBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				D0AE97792A839B22007373EB /* CoreDataContainer.xcdatamodeld */,
 				D0AE977C2A842AB2007373EB /* BackgroundThreadBootcamp.swift */,
 				D0AE977E2A84E6A5007373EB /* WeakSelfBootcamp.swift */,
+				D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */,
 				D0AE97082A819252007373EB /* Sounds */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
@@ -222,6 +225,7 @@
 				D0181D7C2A3F79AB0039132F /* DragGestureBootcamp2.swift in Sources */,
 				D0181D7A2A3F75C90039132F /* DragGestureBootcamp.swift in Sources */,
 				D01C9EF42A3F4B520061326C /* ContentView.swift in Sources */,
+				D0AE97812A84EDBA007373EB /* TypeAliasBootcamp.swift in Sources */,
 				D0AE977B2A839B22007373EB /* CoreDataContainer.xcdatamodeld in Sources */,
 				D0AE97522A82BF22007373EB /* ArraysBootcamp.swift in Sources */,
 				D0AE974E2A82A464007373EB /* LocalNotificationBootcamp.swift in Sources */,
