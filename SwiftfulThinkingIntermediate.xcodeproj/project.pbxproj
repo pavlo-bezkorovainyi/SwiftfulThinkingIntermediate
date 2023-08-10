@@ -37,6 +37,7 @@
 		D0AE97832A851B96007373EB /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97822A851B96007373EB /* EscapingBootcamp.swift */; };
 		D0AE97852A854084007373EB /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97842A854084007373EB /* CodableBootcamp.swift */; };
 		D0AE97872A85628E007373EB /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */; };
+		D0AE97892A857A1C007373EB /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97882A857A1C007373EB /* DownloadWithCombine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		D0AE97822A851B96007373EB /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97842A854084007373EB /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
+		D0AE97882A857A1C007373EB /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				D0AE97822A851B96007373EB /* EscapingBootcamp.swift */,
 				D0AE97842A854084007373EB /* CodableBootcamp.swift */,
 				D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */,
+				D0AE97882A857A1C007373EB /* DownloadWithCombine.swift */,
 				D0AE97082A819252007373EB /* Sounds */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
@@ -227,6 +230,7 @@
 			files = (
 				D0AE97832A851B96007373EB /* EscapingBootcamp.swift in Sources */,
 				D0AE97762A83921A007373EB /* FruitsContainer.xcdatamodeld in Sources */,
+				D0AE97892A857A1C007373EB /* DownloadWithCombine.swift in Sources */,
 				D0AE97502A82AE57007373EB /* HashableBootcamp.swift in Sources */,
 				D0AE97072A818FCD007373EB /* SoundsBootcamp.swift in Sources */,
 				D0AE977D2A842AB2007373EB /* BackgroundThreadBootcamp.swift in Sources */,
