@@ -36,6 +36,7 @@
 		D0AE97812A84EDBA007373EB /* TypeAliasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */; };
 		D0AE97832A851B96007373EB /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97822A851B96007373EB /* EscapingBootcamp.swift */; };
 		D0AE97852A854084007373EB /* CodableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97842A854084007373EB /* CodableBootcamp.swift */; };
+		D0AE97872A85628E007373EB /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeAliasBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97822A851B96007373EB /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		D0AE97842A854084007373EB /* CodableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootcamp.swift; sourceTree = "<group>"; };
+		D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				D0AE97802A84EDBA007373EB /* TypeAliasBootcamp.swift */,
 				D0AE97822A851B96007373EB /* EscapingBootcamp.swift */,
 				D0AE97842A854084007373EB /* CodableBootcamp.swift */,
+				D0AE97862A85628E007373EB /* DownloadWithEscapingBootcamp.swift */,
 				D0AE97082A819252007373EB /* Sounds */,
 				D01C9EF52A3F4B530061326C /* Assets.xcassets */,
 				D01C9EF72A3F4B530061326C /* Preview Content */,
@@ -238,6 +241,7 @@
 				D0AE974E2A82A464007373EB /* LocalNotificationBootcamp.swift in Sources */,
 				D0181D7E2A4009510039132F /* ScrollViewReaderBootcamp.swift in Sources */,
 				D05E1EB52A56EE2700A62871 /* MultipleSheetsBootcamp .swift in Sources */,
+				D0AE97872A85628E007373EB /* DownloadWithEscapingBootcamp.swift in Sources */,
 				D0AE97852A854084007373EB /* CodableBootcamp.swift in Sources */,
 				D0AE977F2A84E6A5007373EB /* WeakSelfBootcamp.swift in Sources */,
 				D01C9EF22A3F4B520061326C /* SwiftfulThinkingIntermediateApp.swift in Sources */,
